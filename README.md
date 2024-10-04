@@ -6,7 +6,8 @@
 		<li>G-12 is a Command Line Based game project, made using Python</li>
 		<li>It uses the libraries such as random, os, time, csv, and mysql.connector</li>
 		<li>It consists of several fun games, a quiz, and an IQ game</li>
-		<li>It consists of a </li>
+		<li>It consists of a (not so robust and extremely basic) login system.</li>
+		<li>If you forgot your password, you can use Forgot Password feature to retreive the password.</li>
     </ul>
 </p>
 
